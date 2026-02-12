@@ -49,7 +49,7 @@ The visual layer pulls live data using custom SQL queries, delivering performanc
 
 
 
-## 2  PROJECTB ROAD ACCIDENT ANALYSIS DASHBOARD
+# 2  PROJECTB ROAD ACCIDENT ANALYSIS DASHBOARD
 
 I created a interactive dashboard regarding Road Accident Analysis.
 
@@ -74,4 +74,5 @@ Casualties by Road Type for Current year.
 Current Year Casualties by Area/Location & by Day/ Night
 About
 I created a interactive dashboard using Power BI.Accident Analysis & Prevention provides wide coverage of the general areas relating to accidental injury and damage, including the pre-injury and immediate post-injury phases.
+<img width="1081" height="621" alt="image" src="https://github.com/user-attachments/assets/be8f5a0d-8abd-41e8-804e-33d053bbc591" />
 
